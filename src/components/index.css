@@ -1,0 +1,12 @@
+.list{
+    list-style: none;
+    margin-right: 120px;
+    text-align: right;
+}
+.list li{
+    display: inline-block;
+    margin-left: 3px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-weight: normal;
+   
+}
